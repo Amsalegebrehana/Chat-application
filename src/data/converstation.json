@@ -1,0 +1,22 @@
+[
+  {
+      "id": 1,
+      "messages": [
+        { "type": "chatbot", "text": "Hi there! How can I assist you today?" },
+        { "type": "user", "text": "I have a question about my account." },
+        {
+          "type": "chatbot",
+          "text": "Sure, I'm here to help. What do you need assistance with?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "messages": [
+        {
+          "type": "chatbot",
+          "text": "I'm sorry, I don't have access to real-time weather information."
+        }
+      ]
+    }
+]
